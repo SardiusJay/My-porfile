@@ -1,2 +1,2 @@
-# My-porfile
-an update of code for my portfolio
+# My-Portfolio
+To know about me
